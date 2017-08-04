@@ -1,7 +1,7 @@
 {
-  "name": "host",
+  "name": "Angular-Material-Electron",
   "version": "1.0.0",
-  "description": "A tool for running meetings smoothly and effectively",
+  "description": "Skeleton for using Angular Material in electron.",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
